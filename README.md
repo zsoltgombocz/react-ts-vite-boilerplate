@@ -8,48 +8,9 @@
 ***
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">oviKom frontend</h1></summary>
-  </ul>
-</div> 
-HSUP keretein belül készülő webes alapú alkalmazás ami segíti a szülők és óvodai pedagógusok könnyű kommunikációját.
-<br />
-<br />
-<a href="https://ovikom-frontend.vercel.app/" target="_blank">
-  
-[![demo](https://img.shields.io/badge/💻-DEMO-red?style=for-the-badge)](https://ovikom-frontend.vercel.app/)
-</a>
-<br />
-
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block;">TARTALOM 🔗</h2></summary>
+    <summary><h1 style="display: inline-block;">React TS with Vite</h1></summary>
   </ul>
 </div> 
 
-1. [Telepítés](#installation)
-2. [Technológiák](#technologies)
-<br />
-
-***
-
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 id="installation" style="display: inline-block;">TELEPÍTÉS ⚙️</h2></summary>
-  </ul>
-</div> 
-Idejön a telepítési útmutató.
 <br />
 <br />
-
-***
-
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 id="technologies" style="display: inline-block;">TECHNOLÓGIÁK 🧬</h2></summary>
-  </ul>
-</div>
-Idejönnek a dependek.
-<br />
-<br />
-
-***
